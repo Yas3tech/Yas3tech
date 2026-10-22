@@ -184,7 +184,82 @@ Chess analysis web app powered by the Stockfish engine.
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+### 🌐 Live Translate
+Live translation pipeline: a local LLM (Ollama) and the NLLB-600M model (CTranslate2) behind a Flask + Socket.IO server, pushing results to a live viewer page published through a Cloudflare tunnel.
+<br/>`Python` `Ollama` `NLLB` `Socket.IO`
+<br/><sub>Local project</sub>
+
+</td>
+<td valign="top">
+
+### 💬 Youth Q&A platform
+PHP web platform where young people submit questions and moderators validate, order and answer them. Three roles (admin, speaker, supervisor), user management, password reset and a feedback inbox.
+<br/>`PHP` `MySQL` `JavaScript`
+<br/><sub>Local project</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🎬 IMPACT Reel Studio
+Production of a 9:16 promo reel for IMPACT: storyboard, an AI presenter with lip sync (Higgsfield), B-roll, ECG overlay and a scripted render with Node and ffmpeg.
+<br/>`Node.js` `ffmpeg` `Higgsfield` `AI video`
+<br/><sub>Local project</sub>
+
+</td>
+<td valign="top">
+
+### 🧪 AI Video Lab
+Local lab for generative video: keyframe generation in ComfyUI, face swap with FaceFusion on the GPU, video models through the Sunra API, and ffmpeg for cutting and testing results.
+<br/>`ComfyUI` `FaceFusion` `Sunra API` `ffmpeg`
+<br/><sub>Local project</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🎞️ AI short-film pipeline
+Scripted pipeline that turns generated keyframes, voice, lip sync and sound effects into a 16:9 film: Whisper transcription, bilingual (AR / FR) subtitles, sound mix and colour grade, all rebuilt from one command.
+<br/>`Python` `Whisper` `ffmpeg` `AI video`
+<br/><sub>Local project</sub>
+
+</td>
+<td valign="top">
+
+### 🚧 More coming
+New experiments land here as they get built.
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🧠 Local AI & generative models
+
+I like running models **on my own machine**, not only calling APIs:
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Ollama-local_LLMs-3B4D5C?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/ComfyUI-image_&_video-3B4D5C?style=for-the-badge" alt="ComfyUI" />
+<img src="https://img.shields.io/badge/FaceFusion-face_swap-3B4D5C?style=for-the-badge" alt="FaceFusion" />
+<img src="https://img.shields.io/badge/Whisper-speech_to_text-3B4D5C?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+<img src="https://img.shields.io/badge/NLLB-translation-3B4D5C?style=for-the-badge&logo=meta&logoColor=white" alt="NLLB" />
+<img src="https://img.shields.io/badge/Stockfish-chess_engine-3B4D5C?style=for-the-badge" alt="Stockfish" />
+
+</div>
+
+- **Local LLMs with Ollama:** Qwen 2.5 (7B, 14B), Aya and Aya Expanse (8B), Gemma 7B, used for translation and text tasks
+- **ComfyUI:** node-based image and video generation workflows on a local NVIDIA GPU
+- **FaceFusion:** face swap and enhancement on video
+- **Whisper and NLLB:** speech transcription and machine translation (CTranslate2) without sending data to the cloud
+- **Hosted models when needed:** Sunra and Higgsfield for video generation, combined with local tools
 
 ---
 
