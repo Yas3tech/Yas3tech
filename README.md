@@ -52,10 +52,20 @@ Passionate about AI, intelligent agents and robotics.
 
 ## 🚀 Projects
 
-> 📌 Featured projects (replace with your real repositories)
-
 | Project | Description | Tech |
 |---|---|---|
+| 🔒 **SmartMadrasa** | Multilingual (FR / NL / AR) school management system for Islamic schools, with GDPR-focused security *(private repository)* | `React` `TypeScript` `Vite` `Firebase` |
+| [**SmartMadrassa website**](https://github.com/Yas3tech/smartmadrassa-site) | Public showcase site of the SmartMadrassa product, live at [smartmadrassa.be](https://smartmadrassa.be) | `React` `TypeScript` `Tailwind` `GSAP` |
+| [**RoboTrack Monitor**](https://github.com/Yas3tech/IntelligentRobotics-Project) | Real-time web dashboard monitoring autonomous robots on a course (EHB Intelligent Robotics), with an MQTT bridge to ROS2 | `Python` `MQTT` `ROS2` `Node.js` |
+| [**Jaguar Project**](https://github.com/Yas3tech/Jaguar-Project) | Driving a Dr Robot Jaguar 4x4: slip-aware odometry, IMU, route driving and ride analysis dashboard | `Python` `HTML` `IMU` |
+| [**ShiftFestival frontend**](https://github.com/IntegrationProject-Groep1/IP-groep1-frontend) | Drupal 10 event platform with RabbitMQ integration, session management and company registration (team project) | `PHP` `Drupal` `RabbitMQ` `Docker` |
+| [**Planning Service**](https://github.com/IntegrationProject-Groep1/Planning) | Receives session messages via RabbitMQ and syncs Outlook calendar appointments through Microsoft Graph (team project) | `Python` `RabbitMQ` `Docker` |
+| [**Opticalium**](https://github.com/Yas3tech/optiek-project) | Web application for an optician: appointments, glasses catalogue, news, FAQ and admin interface | `Laravel 12` `Tailwind` |
+| [**Events & Organisers API**](https://github.com/Yas3tech/node-project) | REST API with a built-in playground and documentation | `Node.js` `Express` `SQLite` |
+| [**Countries explorer**](https://github.com/Yas3tech/projectWEB) | SPA to search, filter, sort and favourite countries using the REST Countries API | `JavaScript` |
+| 🔒 **Moutarjim** | Web application built with Flask *(private repository)* | `Python` `Flask` |
+
+---|---|---|
 | [**Project name 1**](https://github.com/Yas3tech/project-1) | Short description: what does it do, and for whom? | `Python` `LLM API` |
 | [**Project name 2**](https://github.com/Yas3tech/project-2) | Short description | `C#` `.NET` |
 | [**Project name 3**](https://github.com/Yas3tech/project-3) | Short description | `ROS2` `C++` |
@@ -71,16 +81,6 @@ Passionate about AI, intelligent agents and robotics.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yas3tech&layout=compact&hide_border=true" alt="Top languages" />
 
 </div>
-
----
-
-## 💼 Experience
-
-- **Volunteer**, Créactions VZW, Schaerbeek (2020 – present): organising events and activities
-- **Student job, Store Assistant**, ALDI, Herent (2024 – 2025)
-- **Student job, Event Assistant**, SCAM, Brussels (2022 – present)
-
-*These experiences taught me responsibility, communication and teamwork.*
 
 ---
 
