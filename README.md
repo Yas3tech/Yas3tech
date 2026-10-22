@@ -60,6 +60,7 @@ Passionate about AI, intelligent agents and robotics.
 | [**Jaguar Project**](https://github.com/Yas3tech/Jaguar-Project) | Driving a Dr Robot Jaguar 4x4: slip-aware odometry, IMU, route driving and ride analysis dashboard | `Python` `HTML` `IMU` |
 | [**ShiftFestival frontend**](https://github.com/IntegrationProject-Groep1/IP-groep1-frontend) | Drupal 10 event platform with RabbitMQ integration, session management and company registration (team project) | `PHP` `Drupal` `RabbitMQ` `Docker` |
 | [**Planning Service**](https://github.com/IntegrationProject-Groep1/Planning) | Receives session messages via RabbitMQ and syncs Outlook calendar appointments through Microsoft Graph (team project) | `Python` `RabbitMQ` `Docker` |
+| [**Skillsy**](https://github.com/Ilies-Mazouz/Skillsy) | Mobile app connecting neighbours to share and swap skills: authentication, profile discovery on a map or list, skill exchange (team project) | `React Native` `TypeScript` `Firebase` |
 | [**Opticalium**](https://github.com/Yas3tech/optiek-project) | Web application for an optician: appointments, glasses catalogue, news, FAQ and admin interface | `Laravel 12` `Tailwind` |
 | [**Events & Organisers API**](https://github.com/Yas3tech/node-project) | REST API with a built-in playground and documentation | `Node.js` `Express` `SQLite` |
 | [**Countries explorer**](https://github.com/Yas3tech/projectWEB) | SPA to search, filter, sort and favourite countries using the REST Countries API | `JavaScript` |
