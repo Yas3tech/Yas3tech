@@ -1,11 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Yassine Eddouks
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3B4D5C,100:B5D5B7&text=Yassine%20Eddouks&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Applied%20Computer%20Science%20%C2%B7%20AI%20%C2%B7%20Robotics&descAlignY=58&descSize=18" alt="Yassine Eddouks" width="100%" />
 
-### Applied Computer Science student · Looking for an internship
-
-Bachelor in Applied Computer Science @ Erasmushogeschool Brussel (2024 – present)
-Passionate about AI, intelligent agents and robotics.
+<a href="https://github.com/Yas3tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3B4D5C&center=true&vCenter=true&width=640&lines=Applied+Computer+Science+student+%40+EhB;Looking+for+an+internship;LLM+APIs+%C2%B7+AI+agents+%C2%B7+Robotics;Building+things+that+actually+run" alt="Typing intro" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/yassine-eddouks-167288294/"><img src="https://img.shields.io/badge/LinkedIn-Yassine_Eddouks-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -19,58 +16,157 @@ Passionate about AI, intelligent agents and robotics.
 
 ## 🧑‍💻 About me
 
-- 🎓 Applied Computer Science student at Erasmushogeschool (Anderlecht), previously trained in **Industrial ICT** at Technov (Vilvoorde)
+> Bachelor in **Applied Computer Science** at Erasmushogeschool Brussel (2024 – present), previously trained in **Industrial ICT** at Technov (Vilvoorde).
+
 - 🔍 Looking for an **internship** to gain hands-on experience and contribute to a team
-- 🤖 Particularly interested in **LLM API integration**, **AI agent development** and **AI-driven development**
-- 🤝 Motivated, reliable and curious: I enjoy teamwork, adapt quickly and pick up new tasks fast
-- 🌍 Languages: French (native), Dutch (native), English (very good), Arabic (good)
+- 🤖 Interested in **LLM API integration**, **AI agent development** and **AI-driven development**
+- 🦾 Hands-on with **robotics**: ROS2, MQTT, sensor data (IMU, odometry) and live dashboards
+- 🤝 Motivated, reliable and curious: I enjoy teamwork and pick up new things fast
+- 🌍 Languages: 🇫🇷 French (native) · 🇳🇱 Dutch (native) · 🇬🇧 English (very good) · 🇲🇦 Arabic (good)
 
 ---
 
-## 🛠️ Technical skills
+## 🛠️ Tech stack
 
-**Languages**
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,sql" alt="Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,php,laravel,js,ts,react,nextjs,nodejs,express,tailwind,vite&perline=15" alt="Languages and frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,docker,rabbitmq,ros,git,github,vscode,visualstudio,idea&perline=11" alt="Tools" />
 
-**Frameworks, tools & domains**
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,git,github,vscode,visualstudio" alt="Tools" />
-</p>
-
-| Area | Technologies |
+| | |
 |---|---|
-| 💻 Development | Python, Java, C++, C#, .NET, SQL |
-| 🤖 Robotics | ROS2 |
-| 🧠 AI | LLM API integration, AI agent development, AI-driven development |
-| 📎 Productivity | Office 365 |
+| 💻 **Development** | Python · Java · C++ · C# / .NET · PHP / Laravel · TypeScript / React · Node.js · SQL |
+| 🤖 **Robotics** | ROS2 · MQTT · IMU & odometry · real-time dashboards |
+| 🧠 **AI** | LLM API integration · AI agent development · AI-driven development |
+| ⚙️ **DevOps & data** | Docker · RabbitMQ · Firebase · SQLite / MySQL · Git & GitHub |
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🔒 **SmartMadrasa** | Multilingual (FR / NL / AR) school management system for Islamic schools, with GDPR-focused security *(private repository)* | `React` `TypeScript` `Vite` `Firebase` |
-| [**SmartMadrassa website**](https://github.com/Yas3tech/smartmadrassa-site) | Public showcase site of the SmartMadrassa product, live at [smartmadrassa.be](https://smartmadrassa.be) | `React` `TypeScript` `Tailwind` `GSAP` |
-| [**RoboTrack Monitor**](https://github.com/Yas3tech/IntelligentRobotics-Project) | Real-time web dashboard monitoring autonomous robots on a course (EHB Intelligent Robotics), with an MQTT bridge to ROS2 | `Python` `MQTT` `ROS2` `Node.js` |
-| [**Jaguar Project**](https://github.com/Yas3tech/Jaguar-Project) | Driving a Dr Robot Jaguar 4x4: slip-aware odometry, IMU, route driving and ride analysis dashboard | `Python` `HTML` `IMU` |
-| [**ShiftFestival frontend**](https://github.com/IntegrationProject-Groep1/IP-groep1-frontend) | Drupal 10 event platform with RabbitMQ integration, session management and company registration (team project) | `PHP` `Drupal` `RabbitMQ` `Docker` |
-| [**Planning Service**](https://github.com/IntegrationProject-Groep1/Planning) | Receives session messages via RabbitMQ and syncs Outlook calendar appointments through Microsoft Graph (team project) | `Python` `RabbitMQ` `Docker` |
-| 🔒 **Skillsy** | Mobile app connecting neighbours to share and swap skills: authentication, profile discovery on a map or list, skill exchange *(team project, private repository)* | `React Native` `TypeScript` `Firebase` |
-| [**Opticalium**](https://github.com/Yas3tech/optiek-project) | Web application for an optician: appointments, glasses catalogue, news, FAQ and admin interface | `Laravel 12` `Tailwind` |
-| [**Events & Organisers API**](https://github.com/Yas3tech/node-project) | REST API with a built-in playground and documentation | `Node.js` `Express` `SQLite` |
-| [**Countries explorer**](https://github.com/Yas3tech/projectWEB) | SPA to search, filter, sort and favourite countries using the REST Countries API | `JavaScript` |
-| 🔒 **Moutarjim** | Web application built with Flask *(private repository)* | `Python` `Flask` |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----|---|---|
-| [**Project name 1**](https://github.com/Yas3tech/project-1) | Short description: what does it do, and for whom? | `Python` `LLM API` |
-| [**Project name 2**](https://github.com/Yas3tech/project-2) | Short description | `C#` `.NET` |
-| [**Project name 3**](https://github.com/Yas3tech/project-3) | Short description | `ROS2` `C++` |
-| [**Project name 4**](https://github.com/Yas3tech/project-4) | Short description | `Java` `SQL` |
+### 🕌 SmartMadrasa 🔒
+School management system for Islamic schools: multilingual (FR / NL / AR), secure and GDPR-focused.
+<br/>`React` `TypeScript` `Vite` `Firebase`
+<br/><sub>Private repository</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [SmartMadrassa website](https://github.com/Yas3tech/smartmadrassa-site)
+Public showcase site of the product with animations and a WebGL shader, live at [smartmadrassa.be](https://smartmadrassa.be).
+<br/>`React` `TypeScript` `Tailwind` `GSAP`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🤖 [RoboTrack Monitor](https://github.com/Yas3tech/IntelligentRobotics-Project)
+Real-time web dashboard monitoring autonomous robots on a course, with an MQTT bridge to ROS2 (EHB Intelligent Robotics).
+<br/>`Python` `MQTT` `ROS2` `Node.js`
+
+</td>
+<td valign="top">
+
+### 🐆 [Jaguar Project](https://github.com/Yas3tech/Jaguar-Project)
+Driving a Dr Robot Jaguar 4x4: slip-aware odometry, IMU, route driving and a ride analysis dashboard.
+<br/>`Python` `HTML` `IMU`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🎪 [ShiftFestival frontend](https://github.com/IntegrationProject-Groep1/IP-groep1-frontend)
+Drupal 10 event platform with RabbitMQ integration, session management and company registration. *Team project.*
+<br/>`PHP` `Drupal` `RabbitMQ` `Docker`
+
+</td>
+<td valign="top">
+
+### 📅 [Planning Service](https://github.com/IntegrationProject-Groep1/Planning)
+Consumes session messages from RabbitMQ and syncs Outlook calendar appointments through Microsoft Graph. *Team project.*
+<br/>`Python` `RabbitMQ` `Docker`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🤝 Skillsy 🔒
+Mobile app connecting neighbours to share and swap skills: authentication, profile discovery on a map or list, skill exchange. *Team project.*
+<br/>`React Native` `TypeScript` `Firebase`
+<br/><sub>Private repository</sub>
+
+</td>
+<td valign="top">
+
+### 🎵 DarijaVerse AI
+Upload a video or audio clip (or paste a link) and get Arabic lyrics, phonetic transcription, French translation and a synced karaoke player, with SRT / VTT / LRC export.
+<br/>`FastAPI` `React` `Python`
+<br/><sub>Local project</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 👓 [Opticalium](https://github.com/Yas3tech/optiek-project)
+Web application for an optician: appointments, glasses catalogue, news, FAQ and an admin interface.
+<br/>`Laravel 12` `Tailwind`
+
+</td>
+<td valign="top">
+
+### 🧾 Optician ERP (Odoo)
+Custom Odoo modules for an optician: sales, stock, prescriptions, agenda, accounting, after-sales and GDPR.
+<br/>`Odoo` `Python` `Docker`
+<br/><sub>Local project</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🕋 Mosque website
+Website with prayer times, courses, appointments and a donation project.
+<br/>`Next.js` `React`
+<br/><sub>Local project</sub>
+
+</td>
+<td valign="top">
+
+### 🗂️ [Events & Organisers API](https://github.com/Yas3tech/node-project)
+REST API with a built-in playground and documentation.
+<br/>`Node.js` `Express` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🌍 [Countries explorer](https://github.com/Yas3tech/projectWEB)
+SPA to search, filter, sort and favourite countries via the REST Countries API.
+<br/>`JavaScript`
+
+</td>
+<td valign="top">
+
+### 🗣️ Moutarjim 🔒
+Web application built with Flask.
+<br/>`Python` `Flask`
+<br/><sub>Private repository</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -78,8 +174,8 @@ Passionate about AI, intelligent agents and robotics.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yas3tech&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yas3tech&layout=compact&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yas3tech&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B4D5C&icon_color=7FA982&text_color=6B7B88" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yas3tech&layout=compact&hide_border=true&bg_color=00000000&title_color=3B4D5C&text_color=6B7B88" alt="Top languages" />
 
 </div>
 
@@ -89,12 +185,12 @@ Passionate about AI, intelligent agents and robotics.
 
 ⚽ Football · 💡 Tech innovation · 📚 Always learning · ✈️ Travelling
 
----
-
 <div align="center">
 
 ### 📫 Have an internship to offer? Let's talk!
 
 [LinkedIn](https://www.linkedin.com/in/yassine-eddouks-167288294/) · [Email](mailto:eddouksy@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3B4D5C,100:B5D5B7&section=footer" alt="" width="100%" />
 
 </div>
