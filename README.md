@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3B4D5C,100:B5D5B7&text=Yassine%20Eddouks&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Applied%20Computer%20Science%20%C2%B7%20AI%20%C2%B7%20Robotics&descAlignY=58&descSize=18" alt="Yassine Eddouks" width="100%" />
+<img src="assets/banner.svg" alt="Yassine Eddouks: Applied Computer Science, AI, Robotics" width="100%" />
 
 <a href="https://github.com/Yas3tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3B4D5C&center=true&vCenter=true&width=640&lines=Applied+Computer+Science+student+%40+EhB;Looking+for+an+internship;LLM+APIs+%C2%B7+AI+agents+%C2%B7+Robotics;Building+things+that+actually+run" alt="Typing intro" /></a>
 
@@ -60,7 +60,7 @@ School management system for Islamic schools: multilingual (FR / NL / AR), secur
 <td width="50%" valign="top">
 
 ### 🌐 [SmartMadrassa website](https://github.com/Yas3tech/smartmadrassa-site)
-Public showcase site of the product with animations and a WebGL shader, live at [smartmadrassa.be](https://smartmadrassa.be).
+Premium showcase site with scroll choreography (GSAP ScrollTrigger), Framer Motion components, a WebGL shader and light/dark themes, live at [smartmadrassa.be](https://smartmadrassa.be).
 <br/>`React` `TypeScript` `Tailwind` `GSAP`
 
 </td>
@@ -101,8 +101,8 @@ Consumes session messages from RabbitMQ and syncs Outlook calendar appointments 
 <td valign="top">
 
 ### 🤝 Skillsy 🔒
-Mobile app connecting neighbours to share and swap skills: authentication, profile discovery on a map or list, skill exchange. *Team project.*
-<br/>`React Native` `TypeScript` `Firebase`
+Mobile app where neighbours share and swap skills. Auth and profile creation, an explore map with GDPR-friendly fuzzy locations, a video feed with comments, chat, match requests, appointments with overlap checks, reviews and toast notifications. I also built the **AI skill-matching pipeline**: free text such as "gitaar" is scored against known skills (semantic embeddings, fuzzy matching and popularity), mapped automatically, nudged to a suggestion, or routed to a new category, with a Wikipedia fallback for unknown terms and a local LLM service behind it. *Team project (6 contributors).*
+<br/>`React Native` `Expo` `TypeScript` `Firebase` `Local LLM`
 <br/><sub>Private repository</sub>
 
 </td>
@@ -136,8 +136,8 @@ Custom Odoo modules for an optician: sales, stock, prescriptions, agenda, accoun
 <td valign="top">
 
 ### 🕋 Mosque website
-Official site of a mosque in Diegem in FR / NL / AR: live prayer times from Mawaqit, courses, announcements, donations and an admin area.
-<br/>`Next.js` `React` `Drizzle`
+Official site of a mosque in Diegem in FR / NL / AR: live prayer times from Mawaqit, 3D scenes with React Three Fiber, Motion animations, donations and an admin area.
+<br/>`Next.js 16` `React Three Fiber` `Three.js` `Motion` `Tailwind 4` `Drizzle`
 <br/><sub>Local project</sub>
 
 </td>
@@ -170,8 +170,8 @@ Web application built with Flask.
 <td valign="top">
 
 ### 🫀 IMPACT website
-Website for the IMPACT student organisation: workshops, programme, member accounts and registrations, an admin panel and an interactive 3D particle-organ home page. Hosted on OVH.
-<br/>`HTML` `CSS` `JavaScript` `Three.js` `PHP`
+Website for the IMPACT student organisation: workshops, programme, member accounts and registrations, an admin panel and an interactive home page with 3D particle organs (a heart and other organs generated from signed distance fields, rendered in Three.js), animated ECG traces and scroll motion. Hosted on OVH.
+<br/>`Three.js` `WebGL` `JavaScript` `PHP` `Node build`
 <br/><sub>Local project</sub>
 
 </td>
@@ -260,6 +260,17 @@ I like running models **on my own machine**, not only calling APIs:
 - **FaceFusion:** face swap and enhancement on video
 - **Whisper and NLLB:** speech transcription and machine translation (CTranslate2) without sending data to the cloud
 - **Hosted models when needed:** Sunra and Higgsfield for video generation, combined with local tools
+
+---
+
+## 🐍 Activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yas3tech/Yas3tech/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Yas3tech/Yas3tech/output/snake.svg" />
+</picture>
+</div>
 
 ---
 
