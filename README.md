@@ -136,8 +136,8 @@ Custom Odoo modules for an optician: sales, stock, prescriptions, agenda, accoun
 <td valign="top">
 
 ### 🕋 Mosque website
-Website with prayer times, courses, appointments and a donation project.
-<br/>`Next.js` `React`
+Official site of a mosque in Diegem in FR / NL / AR: live prayer times from Mawaqit, courses, announcements, donations and an admin area.
+<br/>`Next.js` `React` `Drizzle`
 <br/><sub>Local project</sub>
 
 </td>
@@ -166,18 +166,25 @@ Web application built with Flask.
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+### 🫀 IMPACT website
+Website for the IMPACT student organisation: workshops, programme, member accounts and registrations, an admin panel and an interactive 3D particle-organ home page. Hosted on OVH.
+<br/>`HTML` `CSS` `JavaScript` `Three.js` `PHP`
+<br/><sub>Local project</sub>
+
+</td>
+<td valign="top">
+
+### ♟️ Chess analysis tool
+Chess analysis web app powered by the Stockfish engine.
+<br/>`JavaScript` `Stockfish`
+<br/><sub>Local project</sub>
+
+</td>
+</tr>
 </table>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yas3tech&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B4D5C&icon_color=7FA982&text_color=6B7B88" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yas3tech&layout=compact&hide_border=true&bg_color=00000000&title_color=3B4D5C&text_color=6B7B88" alt="Top languages" />
-
-</div>
 
 ---
 
